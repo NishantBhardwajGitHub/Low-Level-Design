@@ -20,7 +20,11 @@ public class EventManager {
         List<EventListener> users = listeners.get(eventtype);
         users.add(listener);
 
+<<<<<<< HEAD
         
+=======
+
+>>>>>>> dd54d18a74c2f5e8e16454ffacbabe37e800c521
     }
 
     public void unsubscribe(String eventtype , EventListener listener){
