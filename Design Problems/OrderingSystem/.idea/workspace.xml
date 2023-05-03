@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f7356fd-0e55-4b0c-9c86-7c24af7c9c14" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/Low Level Design.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../behavioural design pattern/Observer pattern/.idea/Observer pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../behavioural design pattern/Observer pattern/out/production/Observer pattern/.idea/Observer pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../creational design pattern/Builder code/Builder code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../creational design pattern/Builder code/Builder/Builder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../creational design pattern/Factory code/Factory code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../creational design pattern/Factory code/Factory/Factory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../creational design pattern/Singelton code/Singelton code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../creational design pattern/Singelton code/Singelton/Singelton.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../creational design pattern/factory/Factory code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../creational design pattern/factory/Factory/Factory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../structural design pattern/Adapter design pattern/.idea/Adapter design pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../structural design pattern/Adapter design pattern/out/production/Adapter design pattern/.idea/Adapter design pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../structural design pattern/Facade Design pattern/.idea/Facade Design pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../structural design pattern/Facade Design pattern/com.company/com.company.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../structural design pattern/Facade Design pattern/out/production/Facade Design pattern/.idea/Facade Design pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../structural design pattern/Facade Design pattern/out/production/Facade Design pattern/com.company/com.company.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../structural design pattern/Facade Design pattern/out/production/Facade Design pattern/out/production/Facade Design pattern/.idea/Facade Design pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../structural design pattern/Facade Design pattern/out/production/Facade Design pattern/out/production/Facade Design pattern/com.company/com.company.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../structural design pattern/Proxy design Pattern/.idea/Proxy design Pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../structural design pattern/Proxy design Pattern/out/production/Proxy design Pattern/.idea/Proxy design Pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../structural design pattern/structural design pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../behavioural design pattern/Chain of responsiblity pattern/com/company/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../behavioural design pattern/Chain of responsiblity pattern/com/company/Logger.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2PFKUtZXfPHpivsmJSucVAO16iK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/solution" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f7356fd-0e55-4b0c-9c86-7c24af7c9c14" name="Changes" comment="" />
+      <created>1683047409645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683047409645</updated>
+    </task>
+    <servers />
+  </component>
+</project>
